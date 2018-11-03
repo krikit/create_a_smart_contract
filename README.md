@@ -188,4 +188,4 @@ Hadcoin의 총 발행량은 1백만개로 제한되어 있습니다. "buy_hadcoi
 
 이를 해결하기 위해 modifier를 추가로 구현하고, "sell_hadcoins" 함수에 이 modifier를 적용하여 해당 버그를 수정해 봅시다.
 
-[모범 답안](hadcoins_ico_debug.png)
+[모범 답안](hadcoins_ico_debug.sol)
